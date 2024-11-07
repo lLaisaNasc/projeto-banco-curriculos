@@ -9,6 +9,7 @@
   <li><strong>Busca e Filtros:</strong> Oferece filtros avançados para facilitar a pesquisa de candidatos com base em habilidades, experiência e outros critérios.</li>
   <li><strong>Interface Intuitiva:</strong> Desenvolvida com Vue e Vite, a interface é responsiva e fácil de usar, proporcionando uma experiência de usuário agradável.</li>
   <li><strong>Gestão de Perfis:</strong> Empresas e recrutadores podem visualizar, editar e organizar perfis de candidatos de forma eficiente.</li>
+   <li><strong>Gerenciamento de Acesso:</strong> Os administradores podem restringir e limitar acesso dos usuários.</li>
   <li><strong>Persistência de Preferências:</strong> As preferências do usuário, como temas e cores de fundo, são salvas para melhorar a experiência nas próximas visitas.</li>
 </ul>
 
