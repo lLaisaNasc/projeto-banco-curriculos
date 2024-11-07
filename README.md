@@ -1,7 +1,5 @@
 # Projeto Banco de Curriculos
 
-# Projeto Banco de Currículos
-
 <p>Este projeto é uma plataforma de gerenciamento de currículos, desenvolvida com <strong>Django</strong>, <strong>Vue</strong> e <strong>Vite</strong>. Seu objetivo é facilitar o armazenamento, organização e consulta de perfis de candidatos, oferecendo uma ferramenta eficiente e moderna para empresas e recrutadores no processo de busca por talentos.</p>
 
 ## Funcionalidades
