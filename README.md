@@ -1,3 +1,4 @@
 # projeto-banco-curriculos
 
-![Demonstração do Projeto](/sistema.gif)
+![Demonstração do Projeto](./public/demonstracao.gif)
+
